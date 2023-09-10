@@ -1,8 +1,8 @@
 ![](media/cover_photo.jpeg)
 
-# **Equidor - Build healthy habits for healthy life** 
+# **Alkatraz - Build healthy habits for healthy life** 
 
-**Equidor** is an app that helps you to Reach your goals by managing your Habits . It's makes your life more organize, controllable, more enjoyable and makes you feel better with making healthy habits by makes the habits small or tiny to be more discipline, and feel guilty free by making small reward after every achievement even if the achievement is small.
+**Alkatraz** is an app that helps you to Reach your goals by managing your Habits . It's makes your life more organize, controllable, more enjoyable and makes you feel better with making healthy habits by makes the habits small or tiny to be more discipline, and feel guilty free by making small reward after every achievement even if the achievement is small.
 
 ## About
 
@@ -88,4 +88,3 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
   
  ## Contact
 If you need any help, you can connect with me.
-
